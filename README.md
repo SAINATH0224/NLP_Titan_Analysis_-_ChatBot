@@ -140,10 +140,10 @@ Improve understanding of business communication and strategy
 
 ---
 🌐 Live Demo
-```
+
 🔗 Streamlit Application
 https://textanalysisnlp-987654321.streamlit.app/
-```
+
 👨‍💻 Author
 
 Sainath Goud
