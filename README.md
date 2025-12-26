@@ -76,16 +76,86 @@ This project demonstrates how **NLP techniques** can be applied to automatically
 
 
 ```
+---
 ⚙️ Installation & Setup
 1️⃣ Clone the Repository
 
+```
 git clone https://github.com/your-username/titan-nlp-chatbot.git
 cd titan-nlp-chatbot
 
+```
 
+2️⃣ Create a Virtual Environment (Recommended)
+```
+python -m venv venv
+source venv/bin/activate      # Windows: venv\Scripts\activate
+```
+3️⃣ Install Dependencies
+```
+pip install -r requirements.txt
+```
+4️⃣ Run the Streamlit App
+```
+streamlit run chatbot_app.py
+```
+---
+🧪 NLP Techniques Used
 
+Text Preprocessing
+Tokenization
+Stopword removal
+Normalization
 
+Sentiment Analysis
+Polarity-based scoring using TextBlob
 
+Word Frequency Analysis
+CountVectorizer
+WordCloud visualization
 
+Topic Modeling
+Latent Dirichlet Allocation (LDA)
+
+📊 Dataset Information
+
+Source: Titan Company Limited – 40th Annual Report (2023–24)
+Type: Corporate document (PDF)
+
+Content Includes:
+Company overview
+Financial performance
+Brand strategy
+Sustainability & CSR
+Governance & leadership
+
+---
+🎯 Project Objective
+The primary objective of this project is to showcase how Natural Language Processing can be used to:
+Automatically analyze large corporate documents
+Extract sentiment and thematic insights
+Build an interactive analytical dashboard using Streamlit
+Improve understanding of business communication and strategy
+
+---
+🌐 Live Demo
+```
+🔗 Streamlit Application
+https://textanalysisnlp-987654321.streamlit.app/
+```
+👨‍💻 Author
+
+Sainath Goud
+B.Tech – Computer Science & Engineering (Data Science)
+NLP & Machine Learning
+Streamlit Applications
+Data Analytics
+
+---
+
+📜 License
+
+This project is developed for academic and educational purposes only.
+All company-related data and brand references belong to Titan Company Limited.
 
 
