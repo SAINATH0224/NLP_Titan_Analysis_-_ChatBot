@@ -142,7 +142,7 @@ Improve understanding of business communication and strategy
 🌐 Live Demo
 
 🔗 Streamlit Application
-https://textanalysisnlp-987654321.streamlit.app/
+https://nlp-titan-analysis-chatbot-sainath-goud-l049.streamlit.app/
 
 👨‍💻 Author
 
