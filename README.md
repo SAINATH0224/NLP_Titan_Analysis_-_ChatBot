@@ -100,63 +100,72 @@ pip install -r requirements.txt
 streamlit run chatbot_app.py
 ```
 ---
-🧪 NLP Techniques Used
+## 🧪 NLP Techniques Used
 
-Text Preprocessing
-Tokenization
-Stopword removal
-Normalization
+### Text Preprocessing
+- Tokenization  
+- Stopword removal  
+- Normalization  
 
-Sentiment Analysis
-Polarity-based scoring using TextBlob
+### Sentiment Analysis
+- Polarity-based scoring using **TextBlob**
 
-Word Frequency Analysis
-CountVectorizer
-WordCloud visualization
+### Word Frequency Analysis
+- CountVectorizer  
+- WordCloud visualization  
 
-Topic Modeling
-Latent Dirichlet Allocation (LDA)
-
----
-📊 Dataset Information
-
-Source: Titan Company Limited – 40th Annual Report (2023–24)
-Type: Corporate document (PDF)
-
-Content Includes:
-Company overview
-Financial performance
-Brand strategy
-Sustainability & CSR
-Governance & leadership
+### Topic Modeling
+- Latent Dirichlet Allocation (**LDA**)
 
 ---
-🎯 Project Objective
-The primary objective of this project is to showcase how Natural Language Processing can be used to:
-Automatically analyze large corporate documents
-Extract sentiment and thematic insights
-Build an interactive analytical dashboard using Streamlit
-Improve understanding of business communication and strategy
+
+## 📊 Dataset Information
+
+- **Source**: Titan Company Limited – 40th Annual Report (2023–24)  
+- **Type**: Corporate document (PDF)
+
+### Content Includes
+- Company overview  
+- Financial performance  
+- Brand strategy  
+- Sustainability & CSR  
+- Governance & leadership  
 
 ---
-🌐 Live Demo
 
-🔗 Streamlit Application
-https://nlp-titan-analysis-chatbot-sainath-goud-l049.streamlit.app/
+## 🎯 Project Objective
+
+The primary objective of this project is to showcase how **Natural Language Processing (NLP)** can be used to:
+
+- Automatically analyze large corporate documents  
+- Extract sentiment and thematic insights  
+- Build an interactive analytical dashboard using **Streamlit**  
+- Improve understanding of business communication and strategy  
+
 ---
-👨‍💻 Author
 
-Sainath Goud
+## 🌐 Live Demo
+
+🚀 **Streamlit Application**  
+🔗 https://nlp-titan-analysis-chatbot-sainath-goud-l049.streamlit.app/
+
+---
+
+## 👨‍💻 Author
+
+**Sainath Goud**  
 B.Tech – Computer Science & Engineering (Data Science)
-NLP & Machine Learning
-Streamlit Applications
-Data Analytics
+
+- NLP & Machine Learning  
+- Streamlit Applications  
+- Data Analytics  
 
 ---
 
-📜 License
+## 📜 License
 
-This project is developed for academic and educational purposes only.
-All company-related data and brand references belong to Titan Company Limited.
+This project is developed for **academic and educational purposes only**.  
+All company-related data and brand references belong to **Titan Company Limited**.
+
 
 
